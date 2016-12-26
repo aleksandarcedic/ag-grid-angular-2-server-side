@@ -6,7 +6,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 **`ng serve` Navigate to `http://localhost:4200/`**
 
-## **ag-grid with angular 2 and server side pagination, sorting, filtering (quickFilter and per column filter)**
+## **ag-grid with angular 2 and server side pagination (with dropdown for selecting rows per page), sorting, filtering (quickFilter and per column filter)**
 
 ### backend done with PHP and MySQL
 **put pag.php in your webserver root dir (example /var/www/ ) - don't forget to set your credentials**
