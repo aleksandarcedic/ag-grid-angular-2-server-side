@@ -2,15 +2,15 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
-** npm install **
+**npm install**
 
-** `ng serve` Navigate to `http://localhost:4200/` **
+**`ng serve` Navigate to `http://localhost:4200/`**
 
-## ** ag-grid with angular 2 and server side pagination, sorting, filtering (quickFilter and per column filter) **
+## **ag-grid with angular 2 and server side pagination, sorting, filtering (quickFilter and per column filter)**
 
 ### backend done with PHP and MySQL
-** put pag.php in your webserver root dir (example /var/www/ ) - don't forget to set your credentials **
-** for this example i created `authors` table with 2000 lines of dummy data, you can find sql in file authors.sql **
+**put pag.php in your webserver root dir (example /var/www/ ) - don't forget to set your credentials**
+**for this example i created `authors` table with 2000 lines of dummy data, you can find sql in file authors.sql**
 
 
 
