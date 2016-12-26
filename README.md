@@ -2,6 +2,9 @@
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
+"ag-grid": "7.1.x",
+"ag-grid-ng2": "7.1.x"
+
 **npm install**
 
 **`ng serve` Navigate to `http://localhost:4200/`**
