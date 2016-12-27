@@ -3,6 +3,7 @@
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.22-1.
 
 "ag-grid": "7.1.x",
+
 "ag-grid-ng2": "7.1.x"
 
 **npm install**
@@ -13,6 +14,7 @@ This project was generated with [angular-cli](https://github.com/angular/angular
 
 ### backend done with PHP and MySQL
 **put pag.php in your webserver root dir (example /var/www/ ) - don't forget to set your credentials**
+
 **for this example i created `authors` table with 2000 lines of dummy data, you can find sql in file authors.sql**
 
 
