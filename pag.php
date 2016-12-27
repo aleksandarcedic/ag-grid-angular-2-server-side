@@ -85,7 +85,7 @@ if(!empty($_GET["filterPerColumn"])){
 		foreach($filterPerColumnArr as $column){
 			switch ($column->type) {
 				case "equals":
-					$filterPerColumnStr = $column->column." == '$column->filter'";
+					$filterPerColumnStr = $column->column." = '$column->filter'";
 					break;
 				case "notEqual":
 					$filterPerColumnStr = $column->column." != '$column->filter'";
